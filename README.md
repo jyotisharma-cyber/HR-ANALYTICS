@@ -3,7 +3,11 @@
 ## HR-ANALYTICS - https://github.com/jyotisharma-cyber/HR-ANALYTICS
 
 ---
+## HR Analytics Dashboard Screenshot
 
+![HR Analytics Dashboard](https://raw.githubusercontent.com/jyotisharma-cyber/HR-ANALYTICS/main/HR-Analytics.PNG)
+
+---
 ##  Project Overview
 
 The HR Analytics Dashboard is an interactive Power BI solution designed to analyze employee attrition and workforce trends. This dashboard helps HR professionals identify key factors influencing employee turnover and supports data-driven decision-making for employee retention strategies.
@@ -113,11 +117,6 @@ Provides detailed attrition breakdown by job role and satisfaction ratings.
 
 ---
 
-## HR Analytics Dashboard Screenshot
-
-![HR Analytics Dashboard](https://raw.githubusercontent.com/jyotisharma-cyber/HR-ANALYTICS/main/HR-Analytics.PNG)
-
----
 
 ##  Key Insights
 
